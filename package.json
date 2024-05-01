@@ -1,7 +1,7 @@
 {
-  "name": "reverse-sentence",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@npmusername/reverse-sentence",
+  "version": "0.1.0",
+  "description": "Reverses a sentence.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynguyenduc-agilityio/reverse-sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huynguyenduc-agilityio/reverse-sentence/issues"
+  },
+  "homepage": "https://github.com/huynguyenduc-agilityio/reverse-sentence#readme",
   "devDependencies": {
     "prettier": "3.2.5"
   }
