@@ -1,5 +1,5 @@
 {
-  "name": "@npmusername/reverse-sentence",
+  "name": "huynguyenduc/reverse-sentence",
   "version": "0.1.0",
   "description": "Reverses a sentence.",
   "main": "index.js",
